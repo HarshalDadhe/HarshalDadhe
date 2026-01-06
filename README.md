@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshalDadhe
-- 👀 I’m interested in Python Django Web Development
-- 💞️ I’m looking to get me a job as a fresher.
+- 👀 I’m interested in Machine Learning, Gen AI and Agentic AI.
+- 💞️ Working as an Junior AI Engineer.
 - 📫 How to reach me via email- harshaldadhe95@gmail.com
 <!---
 HarshalDadhe/HarshalDadhe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
