@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @HarshalDadhe
-- 👀 I’m interested in Machine Learning, Gen AI and Agentic AI.
-- 💞️ Working as an Junior AI Engineer.
+- 👀 I’m interested in AI: Machine Learning, Gen AI, RAG and Agentic AI.
+          Data Engineering: Airflow, Hadoop, HiveSQL, Oracle.
+          Python Development: Django, Flask, HTML, CSS.
+- 💞️ Working as an Software Engineer.
 - 📫 How to reach me via email- harshaldadhe95@gmail.com
 - https://www.linkedin.com/in/harshal-dadhe-271922174/
 <!---
